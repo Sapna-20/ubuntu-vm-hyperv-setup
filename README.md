@@ -63,17 +63,6 @@ sudo apt install openssh-server
 
 ---
 
-## 🖼️ Screenshots
-
-> Note: Attach these in your GitHub repo in an `images/` folder and link them here.
-
-- ✅ Hyper-V enabled confirmation  
-- 🖥️ Hyper-V Manager showing created VM  
-- 🔧 Ubuntu installation screens (partitioning, setup)  
-- 💻 Post-install command line screen
-
----
-
 ## ⚙️ Usage in Real-world Scenarios
 
 This VM can be used for:
